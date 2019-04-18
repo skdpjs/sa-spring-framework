@@ -1,3 +1,5 @@
-# sa-test
-sa test project
-for test branch
+# 仿写SpringFrameWork部分核心功能
+IOC 
+DI
+Aop
+Mvc
